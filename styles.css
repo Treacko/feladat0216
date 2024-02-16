@@ -28,7 +28,7 @@ body {
   margin-left: 20px;
   margin-bottom: 20px;
   background-color:  rgba(227, 235, 233, 0.8);
-  border: 5px solid cadetblue;
+  border: 5px solid rgba(65, 79, 121, 0.5);
 }
 
 .kepkeret img {
